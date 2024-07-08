@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Working on: Random things for fun.
+- 🔭 Working on: Personal projects that I find fun
 - 😂 Funny Joke: Joseph Mother
 
 ![BubbaJuice's GitHub stats](https://github-readme-stats.vercel.app/api?username=BubbaJuice&count_private=true&show_icons=true&theme=github_dark)
